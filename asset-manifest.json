@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-planner/static/css/main.7d8d2992.css",
+    "main.js": "/todo-planner/static/js/main.aada6011.js",
+    "index.html": "/todo-planner/index.html",
+    "main.7d8d2992.css.map": "/todo-planner/static/css/main.7d8d2992.css.map",
+    "main.aada6011.js.map": "/todo-planner/static/js/main.aada6011.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d8d2992.css",
+    "static/js/main.aada6011.js"
+  ]
+}
